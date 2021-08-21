@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HolaAndroid</string>
+    <string name="siaga">Siaga</string>
+    <string name="embebido">Embebido</string>
+    <string name="register">Registro</string>
+    <string name="login">Login</string>
+    <string name="acerca">Acerca de</string>
+    <string name="about_text">App de prueba. Maolink Software agosto 2021</string>
+</resources>
