@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.maolink.helloandroid">
+
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -11,12 +12,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HelloAndroid">
         <activity
+            android:name=".SesionIniciada"
+            android:exported="true" />
+        <activity
             android:name=".Register"
             android:exported="true" />
         <activity
             android:name=".Login"
             android:exported="true" />
-
         <activity
             android:name=".About"
             android:exported="true" />
@@ -28,6 +31,7 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

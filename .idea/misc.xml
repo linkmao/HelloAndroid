@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Dropbox/AP/HelloAndroid/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
+        <entry key="..\:/Dropbox/AP/HelloAndroid/app/src/main/res/layout/activity_register.xml" value="0.1796875" />
+        <entry key="..\:/Dropbox/AP/HelloAndroid/app/src/main/res/layout/activity_sesion_iniciada.xml" value="0.25" />
       </map>
     </option>
   </component>

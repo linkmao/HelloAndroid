@@ -6,4 +6,11 @@
     <string name="login">Login</string>
     <string name="acerca">Acerca de</string>
     <string name="about_text">App de prueba. Maolink Software agosto 2021</string>
+    <string name="start_sesion">Esta sesión fue iniciada satisfactoriamente</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="guardar">Guardar</string>
+    <string name="recuperar">Recuperar</string>
+    <string name="borrar">Borrar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="string_preference">com.maolink.helloandroid.PREFERENCE_FILE_KEY</string>
 </resources>

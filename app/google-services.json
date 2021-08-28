@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833420610497",
+    "project_id": "helloandroid-d7a28",
+    "storage_bucket": "helloandroid-d7a28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833420610497:android:1f220893ddbca263e13d40",
+        "android_client_info": {
+          "package_name": "com.maolink.helloandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833420610497-q8jc9mk06np3iuk17q9v1hoquli0b2r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7NXqJCuSF_JjzQi4ehhl_nAbDNqfGs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833420610497-q8jc9mk06np3iuk17q9v1hoquli0b2r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

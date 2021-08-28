@@ -2,6 +2,7 @@ package com.maolink.helloandroid;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
@@ -137,6 +138,7 @@ public class MainActivity extends AppCompatActivity {
     public void goLogin(View view){
         Intent i = new Intent(this, Login.class);
         startActivity(i);
+        finish();
     }
 
     public void goRegister(View view){

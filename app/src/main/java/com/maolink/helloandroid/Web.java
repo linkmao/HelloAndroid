@@ -1,10 +1,11 @@
 package com.maolink.helloandroid;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.webkit.WebView;
 
+
+// Actividad que abre un url a pantalla completa
 public class Web extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
