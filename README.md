@@ -23,7 +23,7 @@ Ninguno en particular
 ***
 ## Descripcion detallada
 Esta app esta desarrollada con el objetivo de poner en practica algunos elementos básicos en el desarrollo para
-android, haciendo uso del Andrroi Studio, si bien no tiene una interfaz terminada, por lo menos es una app
+android, haciendo uso del Android Studio, si bien no tiene una interfaz terminada, por lo menos es una app
 absolutamente funcional, a continuación se detallan las funcionalidades incorporadas
 
 1) Main Activity: Esta pantalla principal tiene, una calculadora sencilla con las operaciones suma, resta
